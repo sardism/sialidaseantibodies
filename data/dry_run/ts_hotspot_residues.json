@@ -1,0 +1,36 @@
+{
+  "target_name": "Trans-sialidase",
+  "source_pdb": "1S0I.pdb",
+  "chain": "A",
+  "epitope_mode": "manual",
+  "epitope_com": [
+    4.824375169584528,
+    -12.805874824523926,
+    -8.099999859929085
+  ],
+  "epitope_radius": 15.0,
+  "core_residues": [
+    35,
+    119,
+    245,
+    248,
+    312,
+    314,
+    342,
+    357
+  ],
+  "hotspot_residues": [
+    341,
+    312,
+    342,
+    314,
+    283,
+    313,
+    245,
+    35,
+    357,
+    248,
+    119
+  ],
+  "clean_pdb": "/home/sardism/BasementAntibodyWorks/data/dry_run/1S0I_chainA_clean.pdb"
+}
