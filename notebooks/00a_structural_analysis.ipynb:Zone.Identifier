@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://claude.ai/chat/63f77604-645c-44bf-8a88-bd4b861e7539
+HostUrl=https://claude.ai/api/organizations/1c9e9993-2d1c-446f-9231-d47bd5fabb7c/conversations/63f77604-645c-44bf-8a88-bd4b861e7539/wiggle/download-file?path=%2Fmnt%2Fuser-data%2Foutputs%2F00a_structural_analysis.ipynb

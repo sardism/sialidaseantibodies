@@ -1,0 +1,29 @@
+{
+  "target_name": "Trans-sialidase",
+  "target_chain": "A",
+  "clean_pdb": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb01/1S0I_chainA_clean.pdb",
+  "cropped_pdb": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/1S0I_chainA_clean_cropped.pdb",
+  "hotspot_residues": [
+    119,
+    311,
+    312,
+    245,
+    35
+  ],
+  "hotspot_str": "A119,A311,A312,A245,A35",
+  "framework": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/fake_rfantibody/scripts/examples/example_inputs/h-NbBCII10.pdb",
+  "antibody_format": "nanobody",
+  "cdr_loops": "H1:7,H2:6,H3:5-13",
+  "n_designs_rfd": 2,
+  "n_sequences": 2,
+  "n_passed_filter": 1,
+  "n_top_exported": 1,
+  "n_rescued_exported": 0,
+  "filter_pae_max": 10.0,
+  "filter_rmsd_max": 2.0,
+  "rf2_scorefile": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/rf2_scores_filtered.csv",
+  "lr_scorefile": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/rf2_scores_lr_scored.csv",
+  "top_designs_dir": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/top_designs",
+  "rescued_designs_dir": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/rescued_designs",
+  "quiver_rf2": "/home/sardism/BasementAntibodyWorks/data/dry_run/nb02/3_rf2.qv"
+}
