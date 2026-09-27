@@ -1,7 +1,6 @@
 {
-  "target_name": "trans sialidase",
+  "target_name": "Trans sialidase",
   "target_label": "ts",
-  "reference_structure_used": "1MS3",
   "reference_structure": "1MS3",
   "reference_chain": "A",
   "seed_residues": [
@@ -10,8 +9,8 @@
     312
   ],
   "sphere_radius": 18.0,
-  "sasa_threshold": 0.15,
-  "n_structures": 13,
+  "sasa_threshold": 0.15000000000000002,
+  "n_structures": 12,
   "structures": [
     "1MR5",
     "1MS0",
@@ -24,8 +23,7 @@
     "1S0I",
     "1S0J",
     "3B69",
-    "3OPZ",
-    "3PJQ"
+    "3OPZ"
   ],
   "global_max_sasa": 209.33658328640757,
   "region_canonical": [
@@ -181,7 +179,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -196,21 +194,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "13": {
       "pdb_res_num": 13,
       "uniprot_residue": "R",
-      "mean_sasa": 0.1808999491633245,
-      "std_sasa": 0.08780834181454385,
+      "mean_sasa": 0.17263570509090986,
+      "std_sasa": 0.08639999889325824,
       "min_sasa": 0.04682138990385434,
       "max_sasa": 0.284416833808807,
-      "n_structures": 13,
-      "n_exposed": 8,
-      "consistency": 0.615,
+      "n_structures": 12,
+      "n_exposed": 7,
+      "consistency": 0.583,
       "per_structure": {
         "1MR5": 0.2843,
         "1MS0": 0.1611,
@@ -223,21 +220,20 @@
         "1S0I": 0.2687,
         "1S0J": 0.1512,
         "3B69": 0.2596,
-        "3OPZ": 0.2844,
-        "3PJQ": 0.2801
+        "3OPZ": 0.2844
       },
-      "category": "B_mostly_exposed"
+      "category": "C_variable"
     },
     "32": {
       "pdb_res_num": 32,
       "uniprot_residue": "H",
-      "mean_sasa": 0.0889661445990248,
-      "std_sasa": 0.055608096041552896,
+      "mean_sasa": 0.09189040862241338,
+      "std_sasa": 0.05691029385322263,
       "min_sasa": 0.03406824249709276,
       "max_sasa": 0.19732747461412434,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 3,
-      "consistency": 0.231,
+      "consistency": 0.25,
       "per_structure": {
         "1MR5": 0.1827,
         "1MS0": 0.1973,
@@ -250,8 +246,7 @@
         "1S0I": 0.086,
         "1S0J": 0.0462,
         "3B69": 0.0341,
-        "3OPZ": 0.1591,
-        "3PJQ": 0.0539
+        "3OPZ": 0.1591
       },
       "category": "D_mostly_buried"
     },
@@ -262,7 +257,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -277,19 +272,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "34": {
       "pdb_res_num": 34,
       "uniprot_residue": "F",
-      "mean_sasa": 0.0066563481187964235,
-      "std_sasa": 0.004437565412530948,
+      "mean_sasa": 0.006730307542338606,
+      "std_sasa": 0.004611060153305262,
       "min_sasa": 0.0,
       "max_sasa": 0.011537670072580466,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -304,19 +298,18 @@
         "1S0I": 0.0058,
         "1S0J": 0.0058,
         "3B69": 0.0058,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0058
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "35": {
       "pdb_res_num": 35,
       "uniprot_residue": "R",
-      "mean_sasa": 0.020620133558435956,
-      "std_sasa": 0.026157126348015116,
+      "mean_sasa": 0.021467800135698687,
+      "std_sasa": 0.027053105703612308,
       "min_sasa": 0.0,
       "max_sasa": 0.07368171013963103,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -331,19 +324,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.058,
-        "3PJQ": 0.0104
+        "3OPZ": 0.058
       },
       "category": "D_mostly_buried"
     },
     "36": {
       "pdb_res_num": 36,
       "uniprot_residue": "L",
-      "mean_sasa": 0.008431374283808803,
-      "std_sasa": 0.013118992512723339,
+      "mean_sasa": 0.008172516301411165,
+      "std_sasa": 0.01362274561211148,
       "min_sasa": 0.0,
       "max_sasa": 0.04615068029032186,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -358,8 +350,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0231,
-        "3PJQ": 0.0115
+        "3OPZ": 0.0231
       },
       "category": "D_mostly_buried"
     },
@@ -370,7 +361,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -385,19 +376,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "38": {
       "pdb_res_num": 38,
       "uniprot_residue": "A",
-      "mean_sasa": 0.005612148803638828,
-      "std_sasa": 0.003304795871497042,
+      "mean_sasa": 0.005653298256895367,
+      "std_sasa": 0.0034365393626063457,
       "min_sasa": 0.0,
       "max_sasa": 0.010887190400850592,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -412,19 +402,18 @@
         "1S0I": 0.0051,
         "1S0J": 0.0051,
         "3B69": 0.0051,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0051
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "49": {
       "pdb_res_num": 49,
       "uniprot_residue": "I",
-      "mean_sasa": 0.005768835036290233,
-      "std_sasa": 0.006399947853242338,
+      "mean_sasa": 0.0062495712893144185,
+      "std_sasa": 0.006431812711043476,
       "min_sasa": 0.0,
       "max_sasa": 0.02307534014516093,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -439,8 +428,7 @@
         "1S0I": 0.0058,
         "1S0J": 0.0058,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -451,7 +439,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -466,8 +454,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -478,7 +465,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -493,8 +480,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -505,7 +491,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -520,19 +506,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "53": {
       "pdb_res_num": 53,
       "uniprot_residue": "R",
-      "mean_sasa": 0.006831472643531321,
-      "std_sasa": 0.010323747642464487,
+      "mean_sasa": 0.006530084144551998,
+      "std_sasa": 0.01069020847063381,
       "min_sasa": 0.0,
       "max_sasa": 0.0313444038938496,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -547,19 +532,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0261,
-        "3PJQ": 0.0104
+        "3OPZ": 0.0261
       },
       "category": "D_mostly_buried"
     },
     "54": {
       "pdb_res_num": 54,
       "uniprot_residue": "Y",
-      "mean_sasa": 0.015748785737108792,
-      "std_sasa": 0.012287585748335949,
+      "mean_sasa": 0.0162081253211078,
+      "std_sasa": 0.012681637120460127,
       "min_sasa": 0.0,
       "max_sasa": 0.046065198281043225,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -574,21 +558,20 @@
         "1S0I": 0.0256,
         "1S0J": 0.0,
         "3B69": 0.0102,
-        "3OPZ": 0.0461,
-        "3PJQ": 0.0102
+        "3OPZ": 0.0461
       },
       "category": "D_mostly_buried"
     },
     "55": {
       "pdb_res_num": 55,
       "uniprot_residue": "E",
-      "mean_sasa": 0.3247460608964746,
-      "std_sasa": 0.13062081797017866,
+      "mean_sasa": 0.33201812698832706,
+      "std_sasa": 0.13340216005106356,
       "min_sasa": 0.12869484579501747,
       "max_sasa": 0.5722967695244149,
-      "n_structures": 13,
-      "n_exposed": 12,
-      "consistency": 0.923,
+      "n_structures": 12,
+      "n_exposed": 11,
+      "consistency": 0.917,
       "per_structure": {
         "1MR5": 0.4659,
         "1MS0": 0.3264,
@@ -601,21 +584,20 @@
         "1S0I": 0.2229,
         "1S0J": 0.3014,
         "3B69": 0.2299,
-        "3OPZ": 0.5723,
-        "3PJQ": 0.2375
+        "3OPZ": 0.5723
       },
       "category": "A_consistently_exposed"
     },
     "56": {
       "pdb_res_num": 56,
       "uniprot_residue": "T",
-      "mean_sasa": 0.1314903365340632,
-      "std_sasa": 0.05212107146129286,
+      "mean_sasa": 0.12904857963397529,
+      "std_sasa": 0.05353019365984629,
       "min_sasa": 0.0640221830616438,
       "max_sasa": 0.2260290797309429,
-      "n_structures": 13,
-      "n_exposed": 6,
-      "consistency": 0.462,
+      "n_structures": 12,
+      "n_exposed": 5,
+      "consistency": 0.417,
       "per_structure": {
         "1MR5": 0.2222,
         "1MS0": 0.226,
@@ -628,19 +610,18 @@
         "1S0I": 0.082,
         "1S0J": 0.0685,
         "3B69": 0.0851,
-        "3OPZ": 0.1614,
-        "3PJQ": 0.1608
+        "3OPZ": 0.1614
       },
       "category": "C_variable"
     },
     "57": {
       "pdb_res_num": 57,
       "uniprot_residue": "S",
-      "mean_sasa": 0.025599908511346504,
-      "std_sasa": 0.031879868885726144,
+      "mean_sasa": 0.025600586152058565,
+      "std_sasa": 0.03318161947347438,
       "min_sasa": 0.0,
       "max_sasa": 0.0870120411975261,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -655,21 +636,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0051,
         "3B69": 0.0051,
-        "3OPZ": 0.0614,
-        "3PJQ": 0.0256
+        "3OPZ": 0.0614
       },
       "category": "D_mostly_buried"
     },
     "58": {
       "pdb_res_num": 58,
       "uniprot_residue": "F",
-      "mean_sasa": 0.3317203668109115,
-      "std_sasa": 0.17380217349424415,
+      "mean_sasa": 0.3348915791176414,
+      "std_sasa": 0.18053732624171384,
       "min_sasa": 0.028844175181451163,
       "max_sasa": 0.6691848642096669,
-      "n_structures": 13,
-      "n_exposed": 11,
-      "consistency": 0.846,
+      "n_structures": 12,
+      "n_exposed": 10,
+      "consistency": 0.833,
       "per_structure": {
         "1MR5": 0.5423,
         "1MS0": 0.3571,
@@ -682,21 +662,20 @@
         "1S0I": 0.0288,
         "1S0J": 0.2365,
         "3B69": 0.0519,
-        "3OPZ": 0.6692,
-        "3PJQ": 0.2937
+        "3OPZ": 0.6692
       },
       "category": "B_mostly_exposed"
     },
     "59": {
       "pdb_res_num": 59,
       "uniprot_residue": "D",
-      "mean_sasa": 0.1055932454718274,
-      "std_sasa": 0.11364197510878489,
+      "mean_sasa": 0.11512889894609805,
+      "std_sasa": 0.11491619902473794,
       "min_sasa": 0.0,
       "max_sasa": 0.31392325444416397,
-      "n_structures": 11,
+      "n_structures": 10,
       "n_exposed": 4,
-      "consistency": 0.364,
+      "consistency": 0.4,
       "per_structure": {
         "1MR5": 0.2247,
         "1MS0": 0.0,
@@ -707,21 +686,20 @@
         "1MS8": 0.0525,
         "1MS9": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.2599,
-        "3PJQ": 0.0102
+        "3OPZ": 0.2599
       },
       "category": "C_variable"
     },
     "60": {
       "pdb_res_num": 60,
       "uniprot_residue": "N",
-      "mean_sasa": 0.02905147551866735,
-      "std_sasa": 0.04733575787616053,
+      "mean_sasa": 0.031045902198176267,
+      "std_sasa": 0.04874101161972179,
       "min_sasa": 0.0,
       "max_sasa": 0.1753781078173057,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 1,
-      "consistency": 0.077,
+      "consistency": 0.083,
       "per_structure": {
         "1MR5": 0.0576,
         "1MS0": 0.0,
@@ -734,19 +712,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.1754,
-        "3PJQ": 0.0051
+        "3OPZ": 0.1754
       },
       "category": "D_mostly_buried"
     },
     "61": {
       "pdb_res_num": 61,
       "uniprot_residue": "S",
-      "mean_sasa": 0.0075438612013026115,
-      "std_sasa": 0.00970194294244956,
+      "mean_sasa": 0.006730307542338605,
+      "std_sasa": 0.009662679098913543,
       "min_sasa": 0.0,
       "max_sasa": 0.028844175181451163,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -761,19 +738,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0231,
-        "3PJQ": 0.0173
+        "3OPZ": 0.0231
       },
       "category": "D_mostly_buried"
     },
     "62": {
       "pdb_res_num": 62,
       "uniprot_residue": "L",
-      "mean_sasa": 0.02561216376483751,
-      "std_sasa": 0.03371162433185378,
+      "mean_sasa": 0.026304301986168076,
+      "std_sasa": 0.03499931471552683,
       "min_sasa": 0.0,
       "max_sasa": 0.12060076804144626,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -788,19 +764,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0278,
-        "3PJQ": 0.0173
+        "3OPZ": 0.0278
       },
       "category": "D_mostly_buried"
     },
     "63": {
       "pdb_res_num": 63,
       "uniprot_residue": "I",
-      "mean_sasa": 0.0004437565412530948,
-      "std_sasa": 0.0015372177512827895,
+      "mean_sasa": 0.0004807362530241861,
+      "std_sasa": 0.0015944217744025817,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -815,19 +790,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "64": {
       "pdb_res_num": 64,
       "uniprot_residue": "D",
-      "mean_sasa": 0.00039371964342771985,
-      "std_sasa": 0.0013638848527094253,
+      "mean_sasa": 0.0,
+      "std_sasa": 0.0,
       "min_sasa": 0.0,
-      "max_sasa": 0.005118355364560358,
-      "n_structures": 13,
+      "max_sasa": 0.0,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -842,19 +816,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0051
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "65": {
       "pdb_res_num": 65,
       "uniprot_residue": "T",
-      "mean_sasa": 0.0008875130825061896,
-      "std_sasa": 0.002081402674618252,
+      "mean_sasa": 0.0009614725060483722,
+      "std_sasa": 0.002149917882021238,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -869,19 +842,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "91": {
       "pdb_res_num": 91,
       "uniprot_residue": "V",
-      "mean_sasa": 0.019969044356389267,
-      "std_sasa": 0.026736101445327103,
+      "mean_sasa": 0.021633131386088373,
+      "std_sasa": 0.027173295110911575,
       "min_sasa": 0.0,
       "max_sasa": 0.07499485547177302,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -896,19 +868,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0058,
-        "3OPZ": 0.075,
-        "3PJQ": 0.0
+        "3OPZ": 0.075
       },
       "category": "D_mostly_buried"
     },
     "93": {
       "pdb_res_num": 93,
       "uniprot_residue": "R",
-      "mean_sasa": 0.014466647951007505,
-      "std_sasa": 0.016665933156405875,
+      "mean_sasa": 0.015672201946924796,
+      "std_sasa": 0.016793026914655177,
       "min_sasa": 0.0,
       "max_sasa": 0.04179253852513279,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -923,19 +894,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0366,
-        "3PJQ": 0.0
+        "3OPZ": 0.0366
       },
       "category": "D_mostly_buried"
     },
     "94": {
       "pdb_res_num": 94,
       "uniprot_residue": "V",
-      "mean_sasa": 0.0031062957887716637,
-      "std_sasa": 0.002875871077083639,
+      "mean_sasa": 0.0033651537711693025,
+      "std_sasa": 0.002844074027519449,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -950,19 +920,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0058,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "95": {
       "pdb_res_num": 95,
       "uniprot_residue": "V",
-      "mean_sasa": 0.013756452778845938,
-      "std_sasa": 0.019535370587724078,
+      "mean_sasa": 0.013941351337701394,
+      "std_sasa": 0.02032212649956911,
       "min_sasa": 0.0,
       "max_sasa": 0.05191951532661209,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -977,19 +946,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0462,
-        "3PJQ": 0.0115
+        "3OPZ": 0.0462
       },
       "category": "D_mostly_buried"
     },
     "96": {
       "pdb_res_num": 96,
       "uniprot_residue": "D",
-      "mean_sasa": 0.02574188751627792,
-      "std_sasa": 0.0356977097694082,
+      "mean_sasa": 0.02319521905845408,
+      "std_sasa": 0.03600289701264336,
       "min_sasa": 0.0,
       "max_sasa": 0.10748546265576751,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1004,19 +972,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.1075,
-        "3PJQ": 0.0563
+        "3OPZ": 0.1075
       },
       "category": "D_mostly_buried"
     },
     "97": {
       "pdb_res_num": 97,
       "uniprot_residue": "P",
-      "mean_sasa": 0.00039371964342771985,
-      "std_sasa": 0.0013638848527094253,
+      "mean_sasa": 0.0004265296137133632,
+      "std_sasa": 0.0014146386906624528,
       "min_sasa": 0.0,
       "max_sasa": 0.005118355364560358,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1031,19 +998,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0051,
-        "3PJQ": 0.0
+        "3OPZ": 0.0051
       },
       "category": "D_mostly_buried"
     },
     "98": {
       "pdb_res_num": 98,
       "uniprot_residue": "T",
-      "mean_sasa": 0.0008875130825061896,
-      "std_sasa": 0.003074435502565579,
+      "mean_sasa": 0.0009614725060483722,
+      "std_sasa": 0.0031888435488051634,
       "min_sasa": 0.0,
       "max_sasa": 0.011537670072580466,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1058,19 +1024,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0115,
-        "3PJQ": 0.0
+        "3OPZ": 0.0115
       },
       "category": "D_mostly_buried"
     },
     "110": {
       "pdb_res_num": 110,
       "uniprot_residue": "V",
-      "mean_sasa": 0.0004437565412530948,
-      "std_sasa": 0.0015372177512827895,
+      "mean_sasa": 0.0004807362530241861,
+      "std_sasa": 0.0015944217744025815,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1085,8 +1050,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -1097,7 +1061,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1112,19 +1076,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "112": {
       "pdb_res_num": 112,
       "uniprot_residue": "S",
-      "mean_sasa": 0.031253962524265995,
-      "std_sasa": 0.027826531160383045,
+      "mean_sasa": 0.029911279599246245,
+      "std_sasa": 0.02855531105483884,
       "min_sasa": 0.0,
       "max_sasa": 0.08189368583296573,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1139,19 +1102,18 @@
         "1S0I": 0.0102,
         "1S0J": 0.0102,
         "3B69": 0.0051,
-        "3OPZ": 0.0614,
-        "3PJQ": 0.0474
+        "3OPZ": 0.0614
       },
       "category": "D_mostly_buried"
     },
     "113": {
       "pdb_res_num": 113,
       "uniprot_residue": "Y",
-      "mean_sasa": 0.005768835036290233,
-      "std_sasa": 0.0067881697894019155,
+      "mean_sasa": 0.0062495712893144185,
+      "std_sasa": 0.006849437278292432,
       "min_sasa": 0.0,
       "max_sasa": 0.017306505108870697,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1166,19 +1128,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0115,
-        "3PJQ": 0.0
+        "3OPZ": 0.0115
       },
       "category": "D_mostly_buried"
     },
     "116": {
       "pdb_res_num": 116,
       "uniprot_residue": "S",
-      "mean_sasa": 0.08723580347095003,
-      "std_sasa": 0.02916588630562229,
+      "mean_sasa": 0.08339262747284522,
+      "std_sasa": 0.02700974475154989,
       "min_sasa": 0.0,
-      "max_sasa": 0.13335391544820782,
-      "n_structures": 13,
+      "max_sasa": 0.09928567295111505,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1193,20 +1154,19 @@
         "1S0I": 0.0986,
         "1S0J": 0.0993,
         "3B69": 0.0993,
-        "3OPZ": 0.0,
-        "3PJQ": 0.1334
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "117": {
       "pdb_res_num": 117,
       "uniprot_residue": "R",
-      "mean_sasa": 0.5161581130507698,
-      "std_sasa": 0.10574018254260024,
+      "mean_sasa": 0.5100105145672787,
+      "std_sasa": 0.10780272019760329,
       "min_sasa": 0.3544967138650618,
       "max_sasa": 0.7237546820009224,
-      "n_structures": 13,
-      "n_exposed": 13,
+      "n_structures": 12,
+      "n_exposed": 12,
       "consistency": 1.0,
       "per_structure": {
         "1MR5": 0.7238,
@@ -1220,21 +1180,20 @@
         "1S0I": 0.3545,
         "1S0J": 0.3554,
         "3B69": 0.4031,
-        "3OPZ": 0.4223,
-        "3PJQ": 0.5899
+        "3OPZ": 0.4223
       },
       "category": "A_consistently_exposed"
     },
     "118": {
       "pdb_res_num": 118,
       "uniprot_residue": "S",
-      "mean_sasa": 0.19831758273131894,
-      "std_sasa": 0.06809344025322743,
+      "mean_sasa": 0.1904163231978723,
+      "std_sasa": 0.06489623199528907,
       "min_sasa": 0.005768835036290233,
-      "max_sasa": 0.2931326971326788,
-      "n_structures": 13,
-      "n_exposed": 10,
-      "consistency": 0.769,
+      "max_sasa": 0.2528363338879258,
+      "n_structures": 12,
+      "n_exposed": 9,
+      "consistency": 0.75,
       "per_structure": {
         "1MR5": 0.1839,
         "1MS0": 0.2528,
@@ -1247,21 +1206,20 @@
         "1S0I": 0.2163,
         "1S0J": 0.1395,
         "3B69": 0.206,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.2931
+        "3OPZ": 0.0058
       },
       "category": "B_mostly_exposed"
     },
     "119": {
       "pdb_res_num": 119,
       "uniprot_residue": "Y",
-      "mean_sasa": 0.23902831576780856,
-      "std_sasa": 0.1449822620906298,
+      "mean_sasa": 0.2508202230904355,
+      "std_sasa": 0.14478906380094891,
       "min_sasa": 0.02307534014516093,
       "max_sasa": 0.483976145236815,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 8,
-      "consistency": 0.615,
+      "consistency": 0.667,
       "per_structure": {
         "1MR5": 0.484,
         "1MS0": 0.2129,
@@ -1274,19 +1232,18 @@
         "1S0I": 0.0231,
         "1S0J": 0.1442,
         "3B69": 0.0404,
-        "3OPZ": 0.3392,
-        "3PJQ": 0.0975
+        "3OPZ": 0.3392
       },
       "category": "B_mostly_exposed"
     },
     "120": {
       "pdb_res_num": 120,
       "uniprot_residue": "W",
-      "mean_sasa": 0.02436407655870708,
-      "std_sasa": 0.024948632932781805,
+      "mean_sasa": 0.021859437602015128,
+      "std_sasa": 0.024346498660765343,
       "min_sasa": 0.0,
       "max_sasa": 0.07738937223309021,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1301,21 +1258,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0052,
-        "3OPZ": 0.0774,
-        "3PJQ": 0.0544
+        "3OPZ": 0.0774
       },
       "category": "D_mostly_buried"
     },
     "121": {
       "pdb_res_num": 121,
       "uniprot_residue": "T",
-      "mean_sasa": 0.15342039230220833,
-      "std_sasa": 0.07580067829701953,
+      "mean_sasa": 0.14608295600790047,
+      "std_sasa": 0.07432806404691923,
       "min_sasa": 0.0,
       "max_sasa": 0.24203462549635388,
-      "n_structures": 13,
-      "n_exposed": 8,
-      "consistency": 0.615,
+      "n_structures": 12,
+      "n_exposed": 7,
+      "consistency": 0.583,
       "per_structure": {
         "1MR5": 0.23,
         "1MS0": 0.1933,
@@ -1328,21 +1284,20 @@
         "1S0I": 0.0,
         "1S0J": 0.1562,
         "3B69": 0.0115,
-        "3OPZ": 0.1082,
-        "3PJQ": 0.2415
+        "3OPZ": 0.1082
       },
-      "category": "B_mostly_exposed"
+      "category": "C_variable"
     },
     "122": {
       "pdb_res_num": 122,
       "uniprot_residue": "S",
-      "mean_sasa": 0.1959654190917122,
-      "std_sasa": 0.07817430823522276,
+      "mean_sasa": 0.18865275150820113,
+      "std_sasa": 0.0769760651997107,
       "min_sasa": 0.0,
       "max_sasa": 0.31312660293774763,
-      "n_structures": 13,
-      "n_exposed": 10,
-      "consistency": 0.769,
+      "n_structures": 12,
+      "n_exposed": 9,
+      "consistency": 0.75,
       "per_structure": {
         "1MR5": 0.182,
         "1MS0": 0.3131,
@@ -1355,19 +1310,18 @@
         "1S0I": 0.1358,
         "1S0J": 0.221,
         "3B69": 0.1646,
-        "3OPZ": 0.0,
-        "3PJQ": 0.2837
+        "3OPZ": 0.0
       },
       "category": "B_mostly_exposed"
     },
     "123": {
       "pdb_res_num": 123,
       "uniprot_residue": "H",
-      "mean_sasa": 0.0486368390112406,
-      "std_sasa": 0.02324180260902206,
+      "mean_sasa": 0.04884401890465049,
+      "std_sasa": 0.024179298968734393,
       "min_sasa": 0.0,
       "max_sasa": 0.07858461962546871,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1382,19 +1336,18 @@
         "1S0I": 0.0387,
         "1S0J": 0.0497,
         "3B69": 0.0231,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0462
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "174": {
       "pdb_res_num": 174,
       "uniprot_residue": "Q",
-      "mean_sasa": 0.00039371964342771985,
-      "std_sasa": 0.0013638848527094253,
+      "mean_sasa": 0.0004265296137133632,
+      "std_sasa": 0.0014146386906624528,
       "min_sasa": 0.0,
       "max_sasa": 0.005118355364560358,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1409,19 +1362,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0051,
-        "3PJQ": 0.0
+        "3OPZ": 0.0051
       },
       "category": "D_mostly_buried"
     },
     "175": {
       "pdb_res_num": 175,
       "uniprot_residue": "F",
-      "mean_sasa": 0.0004437565412530948,
-      "std_sasa": 0.0015372177512827895,
+      "mean_sasa": 0.0004807362530241861,
+      "std_sasa": 0.0015944217744025815,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1436,19 +1388,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "176": {
       "pdb_res_num": 176,
       "uniprot_residue": "L",
-      "mean_sasa": 0.004881321953784042,
-      "std_sasa": 0.006338111158113399,
+      "mean_sasa": 0.004326626277217674,
+      "std_sasa": 0.00628644223628648,
       "min_sasa": 0.0,
       "max_sasa": 0.017306505108870697,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1463,19 +1414,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0173,
-        "3PJQ": 0.0115
+        "3OPZ": 0.0173
       },
       "category": "D_mostly_buried"
     },
     "177": {
       "pdb_res_num": 177,
       "uniprot_residue": "G",
-      "mean_sasa": 0.00040185133197243066,
-      "std_sasa": 0.001392053848130955,
+      "mean_sasa": 0.0004353389429701332,
+      "std_sasa": 0.0014438559304618597,
       "min_sasa": 0.0,
       "max_sasa": 0.005224067315641599,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1490,19 +1440,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "178": {
       "pdb_res_num": 178,
       "uniprot_residue": "G",
-      "mean_sasa": 0.0011811589302831596,
-      "std_sasa": 0.0040916545581282755,
+      "mean_sasa": 0.0012795888411400896,
+      "std_sasa": 0.004243916071987358,
       "min_sasa": 0.0,
       "max_sasa": 0.015355066093681074,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1517,19 +1466,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0154,
-        "3PJQ": 0.0
+        "3OPZ": 0.0154
       },
       "category": "D_mostly_buried"
     },
     "179": {
       "pdb_res_num": 179,
       "uniprot_residue": "A",
-      "mean_sasa": 0.004237417821229448,
-      "std_sasa": 0.008991460301048075,
+      "mean_sasa": 0.0045905359729985695,
+      "std_sasa": 0.009271599284680371,
       "min_sasa": 0.0,
       "max_sasa": 0.028844175181451163,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1544,19 +1492,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0205,
-        "3PJQ": 0.0
+        "3OPZ": 0.0205
       },
       "category": "D_mostly_buried"
     },
     "180": {
       "pdb_res_num": 180,
       "uniprot_residue": "G",
-      "mean_sasa": 0.00040185133197243066,
-      "std_sasa": 0.001392053848130955,
+      "mean_sasa": 0.0004353389429701332,
+      "std_sasa": 0.0014438559304618597,
       "min_sasa": 0.0,
       "max_sasa": 0.005224067315641599,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1571,21 +1518,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "181": {
       "pdb_res_num": 181,
       "uniprot_residue": "V",
-      "mean_sasa": 0.016361132822806743,
-      "std_sasa": 0.051785822049431156,
+      "mean_sasa": 0.016763088051992267,
+      "std_sasa": 0.0538809050440425,
       "min_sasa": 0.0,
       "max_sasa": 0.19538822158761698,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 1,
-      "consistency": 0.077,
+      "consistency": 0.083,
       "per_structure": {
         "1MR5": 0.0,
         "1MS0": 0.0058,
@@ -1598,19 +1544,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.1954,
-        "3PJQ": 0.0115
+        "3OPZ": 0.1954
       },
       "category": "D_mostly_buried"
     },
     "193": {
       "pdb_res_num": 193,
       "uniprot_residue": "P",
-      "mean_sasa": 0.0053250784950371385,
-      "std_sasa": 0.0035500523300247585,
+      "mean_sasa": 0.005768835036290234,
+      "std_sasa": 0.003330638461112711,
       "min_sasa": 0.0,
       "max_sasa": 0.011537670072580466,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1625,8 +1570,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0058,
-        "3OPZ": 0.0115,
-        "3PJQ": 0.0
+        "3OPZ": 0.0115
       },
       "category": "D_mostly_buried"
     },
@@ -1637,7 +1581,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1652,19 +1596,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "195": {
       "pdb_res_num": 195,
       "uniprot_residue": "Q",
-      "mean_sasa": 0.009457403130809987,
-      "std_sasa": 0.013160544668220125,
+      "mean_sasa": 0.008539401603524033,
+      "std_sasa": 0.013292020745843866,
       "min_sasa": 0.0,
       "max_sasa": 0.0410525548675641,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1679,8 +1622,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0411,
-        "3PJQ": 0.0205
+        "3OPZ": 0.0411
       },
       "category": "D_mostly_buried"
     },
@@ -1691,7 +1633,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1706,19 +1648,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "197": {
       "pdb_res_num": 197,
       "uniprot_residue": "T",
-      "mean_sasa": 0.0008875130825061896,
-      "std_sasa": 0.002081402674618252,
+      "mean_sasa": 0.0009614725060483722,
+      "std_sasa": 0.002149917882021238,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1733,21 +1674,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "201": {
       "pdb_res_num": 201,
       "uniprot_residue": "K",
-      "mean_sasa": 0.39289664358806325,
-      "std_sasa": 0.11533502842796278,
+      "mean_sasa": 0.381943227179565,
+      "std_sasa": 0.1133621521692849,
       "min_sasa": 0.0640221830616438,
-      "max_sasa": 0.5243376404900423,
-      "n_structures": 13,
-      "n_exposed": 12,
-      "consistency": 0.923,
+      "max_sasa": 0.48026031913123374,
+      "n_structures": 12,
+      "n_exposed": 11,
+      "consistency": 0.917,
       "per_structure": {
         "1MR5": 0.4448,
         "1MS0": 0.4803,
@@ -1760,21 +1700,20 @@
         "1S0I": 0.3249,
         "1S0J": 0.3527,
         "3B69": 0.3641,
-        "3OPZ": 0.064,
-        "3PJQ": 0.5243
+        "3OPZ": 0.064
       },
       "category": "B_mostly_exposed"
     },
     "202": {
       "pdb_res_num": 202,
       "uniprot_residue": "Q",
-      "mean_sasa": 0.19522999767621185,
-      "std_sasa": 0.05352046805718102,
+      "mean_sasa": 0.19282262074874076,
+      "std_sasa": 0.05502547454067146,
       "min_sasa": 0.09480158929304215,
       "max_sasa": 0.2855185552387865,
-      "n_structures": 13,
-      "n_exposed": 10,
-      "consistency": 0.769,
+      "n_structures": 12,
+      "n_exposed": 9,
+      "consistency": 0.75,
       "per_structure": {
         "1MR5": 0.1431,
         "1MS0": 0.2463,
@@ -1787,19 +1726,18 @@
         "1S0I": 0.1371,
         "1S0J": 0.1586,
         "3B69": 0.1806,
-        "3OPZ": 0.2855,
-        "3PJQ": 0.2241
+        "3OPZ": 0.2855
       },
       "category": "B_mostly_exposed"
     },
     "203": {
       "pdb_res_num": 203,
       "uniprot_residue": "V",
-      "mean_sasa": 0.0565075008154315,
-      "std_sasa": 0.04345900651620458,
+      "mean_sasa": 0.05352467916833048,
+      "std_sasa": 0.04393645138080018,
       "min_sasa": 0.0,
       "max_sasa": 0.13104890267272945,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1814,19 +1752,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0231,
         "3B69": 0.0901,
-        "3OPZ": 0.131,
-        "3PJQ": 0.0923
+        "3OPZ": 0.131
       },
       "category": "D_mostly_buried"
     },
     "204": {
       "pdb_res_num": 204,
       "uniprot_residue": "F",
-      "mean_sasa": 0.0004437565412530948,
-      "std_sasa": 0.0015372177512827895,
+      "mean_sasa": 0.0004807362530241861,
+      "std_sasa": 0.0015944217744025815,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1841,8 +1778,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -1853,7 +1789,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1868,19 +1804,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "227": {
       "pdb_res_num": 227,
       "uniprot_residue": "G",
-      "mean_sasa": 0.059655041488973944,
-      "std_sasa": 0.04051115436352156,
+      "mean_sasa": 0.056779018480842214,
+      "std_sasa": 0.040870366058113804,
       "min_sasa": 0.0,
       "max_sasa": 0.1275850804119176,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1895,19 +1830,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0628,
         "3B69": 0.0912,
-        "3OPZ": 0.1276,
-        "3PJQ": 0.0942
+        "3OPZ": 0.1276
       },
       "category": "D_mostly_buried"
     },
     "228": {
       "pdb_res_num": 228,
       "uniprot_residue": "C",
-      "mean_sasa": 0.0014185432827570322,
-      "std_sasa": 0.0025898938492115186,
+      "mean_sasa": 0.001536755222986785,
+      "std_sasa": 0.0026617381250099506,
       "min_sasa": 0.0,
       "max_sasa": 0.006147020891947139,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1922,19 +1856,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0061,
-        "3PJQ": 0.0
+        "3OPZ": 0.0061
       },
       "category": "D_mostly_buried"
     },
     "229": {
       "pdb_res_num": 229,
       "uniprot_residue": "S",
-      "mean_sasa": 0.03384273013283494,
-      "std_sasa": 0.03525277703133697,
+      "mean_sasa": 0.030738626190455032,
+      "std_sasa": 0.03494367585725123,
       "min_sasa": 0.0,
       "max_sasa": 0.08644704353507486,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1949,19 +1882,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0173,
-        "3OPZ": 0.0807,
-        "3PJQ": 0.0711
+        "3OPZ": 0.0807
       },
       "category": "D_mostly_buried"
     },
     "230": {
       "pdb_res_num": 230,
       "uniprot_residue": "E",
-      "mean_sasa": 0.0213675100799229,
-      "std_sasa": 0.023194695674405172,
+      "mean_sasa": 0.020162428623922934,
+      "std_sasa": 0.023747586318288383,
       "min_sasa": 0.0,
       "max_sasa": 0.07742581014013523,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -1976,19 +1908,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0487,
-        "3PJQ": 0.0358
+        "3OPZ": 0.0487
       },
       "category": "D_mostly_buried"
     },
     "231": {
       "pdb_res_num": 231,
       "uniprot_residue": "P",
-      "mean_sasa": 0.00039371964342771985,
-      "std_sasa": 0.0013638848527094253,
+      "mean_sasa": 0.0004265296137133632,
+      "std_sasa": 0.0014146386906624528,
       "min_sasa": 0.0,
       "max_sasa": 0.005118355364560358,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2003,19 +1934,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0051,
-        "3PJQ": 0.0
+        "3OPZ": 0.0051
       },
       "category": "D_mostly_buried"
     },
     "232": {
       "pdb_res_num": 232,
       "uniprot_residue": "V",
-      "mean_sasa": 0.0035500523300247585,
-      "std_sasa": 0.012297742010262316,
+      "mean_sasa": 0.0038458900241934886,
+      "std_sasa": 0.012755374195220654,
       "min_sasa": 0.0,
       "max_sasa": 0.04615068029032186,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2030,8 +1960,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0462,
-        "3PJQ": 0.0
+        "3OPZ": 0.0462
       },
       "category": "D_mostly_buried"
     },
@@ -2042,7 +1971,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2057,8 +1986,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -2069,7 +1997,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2084,19 +2012,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "245": {
       "pdb_res_num": 245,
       "uniprot_residue": "R",
-      "mean_sasa": 0.02530913022665089,
-      "std_sasa": 0.02354564467311123,
+      "mean_sasa": 0.02515073507724636,
+      "std_sasa": 0.02450042872464682,
       "min_sasa": 0.0,
       "max_sasa": 0.07531601330157693,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2111,19 +2038,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0173,
-        "3PJQ": 0.0272
+        "3OPZ": 0.0173
       },
       "category": "D_mostly_buried"
     },
     "246": {
       "pdb_res_num": 246,
       "uniprot_residue": "V",
-      "mean_sasa": 0.027420963450585836,
-      "std_sasa": 0.028841363618623432,
+      "mean_sasa": 0.025860153713941167,
+      "std_sasa": 0.029486832517041643,
       "min_sasa": 0.0,
       "max_sasa": 0.07499485547177302,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2138,21 +2064,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0173,
         "3B69": 0.0173,
-        "3OPZ": 0.0738,
-        "3PJQ": 0.0462
+        "3OPZ": 0.0738
       },
       "category": "D_mostly_buried"
     },
     "247": {
       "pdb_res_num": 247,
       "uniprot_residue": "D",
-      "mean_sasa": 0.1050303068632356,
-      "std_sasa": 0.08976570319352475,
+      "mean_sasa": 0.09761298092334493,
+      "std_sasa": 0.08952180839902739,
       "min_sasa": 0.0,
       "max_sasa": 0.23934722480015572,
-      "n_structures": 13,
-      "n_exposed": 5,
-      "consistency": 0.385,
+      "n_structures": 12,
+      "n_exposed": 4,
+      "consistency": 0.333,
       "per_structure": {
         "1MR5": 0.1985,
         "1MS0": 0.1235,
@@ -2165,20 +2090,19 @@
         "1S0I": 0.0,
         "1S0J": 0.0513,
         "3B69": 0.0051,
-        "3OPZ": 0.2393,
-        "3PJQ": 0.194
+        "3OPZ": 0.2393
       },
       "category": "C_variable"
     },
     "248": {
       "pdb_res_num": 248,
       "uniprot_residue": "Y",
-      "mean_sasa": 0.3606465653788589,
-      "std_sasa": 0.08906829618378279,
+      "mean_sasa": 0.3577065112879072,
+      "std_sasa": 0.0920971619129593,
       "min_sasa": 0.21978072904148005,
       "max_sasa": 0.5041486388070551,
-      "n_structures": 13,
-      "n_exposed": 13,
+      "n_structures": 12,
+      "n_exposed": 12,
       "consistency": 1.0,
       "per_structure": {
         "1MR5": 0.4824,
@@ -2192,20 +2116,19 @@
         "1S0I": 0.2198,
         "1S0J": 0.2371,
         "3B69": 0.33,
-        "3OPZ": 0.3447,
-        "3PJQ": 0.3959
+        "3OPZ": 0.3447
       },
       "category": "A_consistently_exposed"
     },
     "249": {
       "pdb_res_num": 249,
       "uniprot_residue": "R",
-      "mean_sasa": 0.5409641591186649,
-      "std_sasa": 0.08946680276989152,
+      "mean_sasa": 0.5303373790015364,
+      "std_sasa": 0.08487204844629867,
       "min_sasa": 0.39311819400526193,
       "max_sasa": 0.6805679583174354,
-      "n_structures": 13,
-      "n_exposed": 13,
+      "n_structures": 12,
+      "n_exposed": 12,
       "consistency": 1.0,
       "per_structure": {
         "1MR5": 0.5415,
@@ -2219,21 +2142,20 @@
         "1S0I": 0.4836,
         "1S0J": 0.574,
         "3B69": 0.5809,
-        "3OPZ": 0.6806,
-        "3PJQ": 0.6685
+        "3OPZ": 0.6806
       },
       "category": "A_consistently_exposed"
     },
     "250": {
       "pdb_res_num": 250,
       "uniprot_residue": "R",
-      "mean_sasa": 0.057889107484520634,
-      "std_sasa": 0.05494887703292719,
+      "mean_sasa": 0.06036372514908725,
+      "std_sasa": 0.05649234892882568,
       "min_sasa": 0.0,
       "max_sasa": 0.19342057460718493,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 1,
-      "consistency": 0.077,
+      "consistency": 0.083,
       "per_structure": {
         "1MR5": 0.0972,
         "1MS0": 0.0629,
@@ -2246,19 +2168,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0058,
         "3B69": 0.0115,
-        "3OPZ": 0.1169,
-        "3PJQ": 0.0282
+        "3OPZ": 0.1169
       },
       "category": "D_mostly_buried"
     },
     "251": {
       "pdb_res_num": 251,
       "uniprot_residue": "R",
-      "mean_sasa": 0.0017249892671870044,
-      "std_sasa": 0.004574343142452908,
+      "mean_sasa": 0.0018687383727859213,
+      "std_sasa": 0.004732832518407459,
       "min_sasa": 0.0,
       "max_sasa": 0.016656025437140825,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2273,19 +2194,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0167,
-        "3PJQ": 0.0
+        "3OPZ": 0.0167
       },
       "category": "D_mostly_buried"
     },
     "252": {
       "pdb_res_num": 252,
       "uniprot_residue": "L",
-      "mean_sasa": 0.04348814104280329,
-      "std_sasa": 0.048825320489033514,
+      "mean_sasa": 0.038939636494959066,
+      "std_sasa": 0.04810005852919549,
       "min_sasa": 0.0,
       "max_sasa": 0.13845204087096558,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2300,19 +2220,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0288,
-        "3OPZ": 0.1096,
-        "3PJQ": 0.0981
+        "3OPZ": 0.1096
       },
       "category": "D_mostly_buried"
     },
     "274": {
       "pdb_res_num": 274,
       "uniprot_residue": "W",
-      "mean_sasa": 0.003993808871277853,
-      "std_sasa": 0.0034941424999711157,
+      "mean_sasa": 0.004326626277217675,
+      "std_sasa": 0.0034331435439780913,
       "min_sasa": 0.0,
       "max_sasa": 0.011537670072580466,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2327,19 +2246,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0058,
-        "3OPZ": 0.0115,
-        "3PJQ": 0.0
+        "3OPZ": 0.0115
       },
       "category": "D_mostly_buried"
     },
     "275": {
       "pdb_res_num": 275,
       "uniprot_residue": "G",
-      "mean_sasa": 0.003349904738723259,
-      "std_sasa": 0.0033330397037780886,
+      "mean_sasa": 0.0036290634669501973,
+      "std_sasa": 0.0033199144161337292,
       "min_sasa": 0.0,
       "max_sasa": 0.010236710729120716,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2354,19 +2272,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0058,
         "3B69": 0.0051,
-        "3OPZ": 0.0102,
-        "3PJQ": 0.0
+        "3OPZ": 0.0102
       },
       "category": "D_mostly_buried"
     },
     "276": {
       "pdb_res_num": 276,
       "uniprot_residue": "P",
-      "mean_sasa": 0.0008374761846808148,
-      "std_sasa": 0.0029011026039922148,
+      "mean_sasa": 0.0009072658667375493,
+      "std_sasa": 0.003009060465065035,
       "min_sasa": 0.0,
       "max_sasa": 0.010887190400850592,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2381,19 +2298,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0109,
-        "3PJQ": 0.0
+        "3OPZ": 0.0109
       },
       "category": "D_mostly_buried"
     },
     "277": {
       "pdb_res_num": 277,
       "uniprot_residue": "S",
-      "mean_sasa": 0.0007874392868554397,
-      "std_sasa": 0.0027277697054188506,
+      "mean_sasa": 0.0008530592274267264,
+      "std_sasa": 0.0028292773813249055,
       "min_sasa": 0.0,
       "max_sasa": 0.010236710729120716,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2408,21 +2324,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0102,
-        "3PJQ": 0.0
+        "3OPZ": 0.0102
       },
       "category": "D_mostly_buried"
     },
     "278": {
       "pdb_res_num": 278,
       "uniprot_residue": "P",
-      "mean_sasa": 0.13908022650959276,
-      "std_sasa": 0.09331009276854996,
+      "mean_sasa": 0.14009404781886006,
+      "std_sasa": 0.09705140919173917,
       "min_sasa": 0.017306505108870697,
       "max_sasa": 0.276082638051644,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 6,
-      "consistency": 0.462,
+      "consistency": 0.5,
       "per_structure": {
         "1MR5": 0.2703,
         "1MS0": 0.1583,
@@ -2435,19 +2350,18 @@
         "1S0I": 0.0404,
         "1S0J": 0.0173,
         "3B69": 0.1269,
-        "3OPZ": 0.2544,
-        "3PJQ": 0.1269
+        "3OPZ": 0.2544
       },
       "category": "C_variable"
     },
     "280": {
       "pdb_res_num": 280,
       "uniprot_residue": "S",
-      "mean_sasa": 0.026549053420659198,
-      "std_sasa": 0.036447345637730756,
+      "mean_sasa": 0.025295030990029735,
+      "std_sasa": 0.037665187043711565,
       "min_sasa": 0.0,
       "max_sasa": 0.09286635824309496,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2462,21 +2376,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0416
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "281": {
       "pdb_res_num": 281,
       "uniprot_residue": "N",
-      "mean_sasa": 0.2808924279286274,
-      "std_sasa": 0.07065596492112701,
+      "mean_sasa": 0.27430375883924396,
+      "std_sasa": 0.06959849286475006,
       "min_sasa": 0.11452284110503266,
       "max_sasa": 0.3609402804914446,
-      "n_structures": 13,
-      "n_exposed": 12,
-      "consistency": 0.923,
+      "n_structures": 12,
+      "n_exposed": 11,
+      "consistency": 0.917,
       "per_structure": {
         "1MR5": 0.22,
         "1MS0": 0.317,
@@ -2489,21 +2402,20 @@
         "1S0I": 0.2179,
         "1S0J": 0.3012,
         "3B69": 0.2914,
-        "3OPZ": 0.3176,
-        "3PJQ": 0.36
+        "3OPZ": 0.3176
       },
       "category": "A_consistently_exposed"
     },
     "282": {
       "pdb_res_num": 282,
       "uniprot_residue": "Q",
-      "mean_sasa": 0.10693336671835543,
-      "std_sasa": 0.06297972315699416,
+      "mean_sasa": 0.10325488858244496,
+      "std_sasa": 0.06419561541250123,
       "min_sasa": 0.0,
       "max_sasa": 0.20834462888441896,
-      "n_structures": 13,
-      "n_exposed": 4,
-      "consistency": 0.308,
+      "n_structures": 12,
+      "n_exposed": 3,
+      "consistency": 0.25,
       "per_structure": {
         "1MR5": 0.1921,
         "1MS0": 0.1451,
@@ -2516,19 +2428,18 @@
         "1S0I": 0.1094,
         "1S0J": 0.1094,
         "3B69": 0.0885,
-        "3OPZ": 0.2083,
-        "3PJQ": 0.1511
+        "3OPZ": 0.2083
       },
-      "category": "C_variable"
+      "category": "D_mostly_buried"
     },
     "283": {
       "pdb_res_num": 283,
       "uniprot_residue": "P",
-      "mean_sasa": 0.004337491616880199,
-      "std_sasa": 0.007033223944197797,
+      "mean_sasa": 0.004698949251620215,
+      "std_sasa": 0.007203468230957893,
       "min_sasa": 0.0,
       "max_sasa": 0.017306505108870697,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2543,19 +2454,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0167,
-        "3PJQ": 0.0
+        "3OPZ": 0.0167
       },
       "category": "D_mostly_buried"
     },
     "284": {
       "pdb_res_num": 284,
       "uniprot_residue": "G",
-      "mean_sasa": 0.0008875130825061896,
-      "std_sasa": 0.002081402674618252,
+      "mean_sasa": 0.0009614725060483722,
+      "std_sasa": 0.002149917882021238,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2570,8 +2480,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
@@ -2582,7 +2491,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2597,19 +2506,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "286": {
       "pdb_res_num": 286,
       "uniprot_residue": "Q",
-      "mean_sasa": 0.004269944575408292,
-      "std_sasa": 0.00939612625072171,
+      "mean_sasa": 0.00462577329002565,
+      "std_sasa": 0.009695280876052996,
       "min_sasa": 0.0,
       "max_sasa": 0.032433939335146864,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2624,19 +2532,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0324,
-        "3PJQ": 0.0
+        "3OPZ": 0.0324
       },
       "category": "D_mostly_buried"
     },
     "287": {
       "pdb_res_num": 287,
       "uniprot_residue": "S",
-      "mean_sasa": 0.0007955709754001506,
-      "std_sasa": 0.0027559387008403804,
+      "mean_sasa": 0.0008618685566834965,
+      "std_sasa": 0.0028584946211243126,
       "min_sasa": 0.0,
       "max_sasa": 0.010342422680201958,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2651,19 +2558,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0103,
-        "3PJQ": 0.0
+        "3OPZ": 0.0103
       },
       "category": "D_mostly_buried"
     },
     "288": {
       "pdb_res_num": 288,
       "uniprot_residue": "S",
-      "mean_sasa": 0.0034499785343740093,
-      "std_sasa": 0.010399203100725212,
+      "mean_sasa": 0.0037374767455718434,
+      "std_sasa": 0.01077408276121755,
       "min_sasa": 0.0,
       "max_sasa": 0.039080885910571884,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2678,19 +2584,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0391,
-        "3PJQ": 0.0
+        "3OPZ": 0.0391
       },
       "category": "D_mostly_buried"
     },
     "289": {
       "pdb_res_num": 289,
       "uniprot_residue": "F",
-      "mean_sasa": 0.0033661681158126807,
-      "std_sasa": 0.006868844170781573,
+      "mean_sasa": 0.003165945872439551,
+      "std_sasa": 0.007112778333514658,
       "min_sasa": 0.0,
       "max_sasa": 0.020684845360403915,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2705,19 +2610,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0207,
-        "3PJQ": 0.0058
+        "3OPZ": 0.0207
       },
       "category": "D_mostly_buried"
     },
     "303": {
       "pdb_res_num": 303,
       "uniprot_residue": "T",
-      "mean_sasa": 0.0013312696237592844,
-      "std_sasa": 0.0024305546768479186,
+      "mean_sasa": 0.001442208759072558,
+      "std_sasa": 0.0024979788458345327,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2732,19 +2636,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "304": {
       "pdb_res_num": 304,
       "uniprot_residue": "H",
-      "mean_sasa": 0.004689306051027254,
-      "std_sasa": 0.010187223015070567,
+      "mean_sasa": 0.005080081555279525,
+      "std_sasa": 0.010509169046945389,
       "min_sasa": 0.0,
       "max_sasa": 0.03788563851819337,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2759,19 +2662,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0058,
         "3B69": 0.0,
-        "3OPZ": 0.0379,
-        "3PJQ": 0.0
+        "3OPZ": 0.0379
       },
       "category": "D_mostly_buried"
     },
     "305": {
       "pdb_res_num": 305,
       "uniprot_residue": "P",
-      "mean_sasa": 0.0004437565412530948,
-      "std_sasa": 0.0015372177512827895,
+      "mean_sasa": 0.0004807362530241861,
+      "std_sasa": 0.0015944217744025817,
       "min_sasa": 0.0,
       "max_sasa": 0.005768835036290233,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2786,19 +2688,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0058,
-        "3PJQ": 0.0
+        "3OPZ": 0.0058
       },
       "category": "D_mostly_buried"
     },
     "306": {
       "pdb_res_num": 306,
       "uniprot_residue": "L",
-      "mean_sasa": 0.03505676675899449,
-      "std_sasa": 0.03721210167549428,
+      "mean_sasa": 0.03509374647076558,
+      "std_sasa": 0.03873135391658193,
       "min_sasa": 0.0,
       "max_sasa": 0.12114553576209487,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2813,19 +2714,18 @@
         "1S0I": 0.0058,
         "1S0J": 0.0,
         "3B69": 0.0173,
-        "3OPZ": 0.1211,
-        "3PJQ": 0.0346
+        "3OPZ": 0.1211
       },
       "category": "D_mostly_buried"
     },
     "307": {
       "pdb_res_num": 307,
       "uniprot_residue": "N",
-      "mean_sasa": 0.0012311958281085345,
-      "std_sasa": 0.00310114761994929,
+      "mean_sasa": 0.0013337954804509124,
+      "std_sasa": 0.0032065083795597368,
       "min_sasa": 0.0,
       "max_sasa": 0.010887190400850592,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2840,21 +2740,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0109,
-        "3PJQ": 0.0
+        "3OPZ": 0.0109
       },
       "category": "D_mostly_buried"
     },
     "308": {
       "pdb_res_num": 308,
       "uniprot_residue": "F",
-      "mean_sasa": 0.38831615716920226,
-      "std_sasa": 0.13415076223232572,
+      "mean_sasa": 0.3783382105301829,
+      "std_sasa": 0.13491425725043155,
       "min_sasa": 0.11789313740344551,
       "max_sasa": 0.5458314434045466,
-      "n_structures": 13,
-      "n_exposed": 12,
-      "consistency": 0.923,
+      "n_structures": 12,
+      "n_exposed": 11,
+      "consistency": 0.917,
       "per_structure": {
         "1MR5": 0.5458,
         "1MS0": 0.3953,
@@ -2867,21 +2766,20 @@
         "1S0I": 0.2884,
         "1S0J": 0.2237,
         "3B69": 0.4523,
-        "3OPZ": 0.5247,
-        "3PJQ": 0.5081
+        "3OPZ": 0.5247
       },
       "category": "A_consistently_exposed"
     },
     "309": {
       "pdb_res_num": 309,
       "uniprot_residue": "K",
-      "mean_sasa": 0.279034713434955,
-      "std_sasa": 0.132508124984917,
+      "mean_sasa": 0.2661812621194559,
+      "std_sasa": 0.12989941382948758,
       "min_sasa": 0.038430406238842,
-      "max_sasa": 0.4332761292209443,
-      "n_structures": 13,
-      "n_exposed": 10,
-      "consistency": 0.769,
+      "max_sasa": 0.42457203167924834,
+      "n_structures": 12,
+      "n_exposed": 9,
+      "consistency": 0.75,
       "per_structure": {
         "1MR5": 0.4246,
         "1MS0": 0.3497,
@@ -2894,19 +2792,18 @@
         "1S0I": 0.1489,
         "1S0J": 0.0384,
         "3B69": 0.396,
-        "3OPZ": 0.4222,
-        "3PJQ": 0.4333
+        "3OPZ": 0.4222
       },
       "category": "B_mostly_exposed"
     },
     "310": {
       "pdb_res_num": 310,
       "uniprot_residue": "G",
-      "mean_sasa": 0.016662600976316104,
-      "std_sasa": 0.01187815617754462,
+      "mean_sasa": 0.015220940178841484,
+      "std_sasa": 0.011217358315499668,
       "min_sasa": 0.0,
       "max_sasa": 0.034613010217741394,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -2921,20 +2818,19 @@
         "1S0I": 0.0115,
         "1S0J": 0.0058,
         "3B69": 0.0115,
-        "3OPZ": 0.0288,
-        "3PJQ": 0.034
+        "3OPZ": 0.0288
       },
       "category": "D_mostly_buried"
     },
     "311": {
       "pdb_res_num": 311,
       "uniprot_residue": "R",
-      "mean_sasa": 0.5865400569378892,
-      "std_sasa": 0.10263880092907764,
+      "mean_sasa": 0.5928168339048542,
+      "std_sasa": 0.1044051914384343,
       "min_sasa": 0.3946549492282487,
       "max_sasa": 0.7781909341526799,
-      "n_structures": 13,
-      "n_exposed": 13,
+      "n_structures": 12,
+      "n_exposed": 12,
       "consistency": 1.0,
       "per_structure": {
         "1MR5": 0.6619,
@@ -2948,21 +2844,20 @@
         "1S0I": 0.3947,
         "1S0J": 0.5742,
         "3B69": 0.6718,
-        "3OPZ": 0.6813,
-        "3PJQ": 0.5112
+        "3OPZ": 0.6813
       },
       "category": "A_consistently_exposed"
     },
     "312": {
       "pdb_res_num": 312,
       "uniprot_residue": "W",
-      "mean_sasa": 0.21502958798687405,
-      "std_sasa": 0.1545948318183135,
+      "mean_sasa": 0.23198724781306515,
+      "std_sasa": 0.1488384467989585,
       "min_sasa": 0.005768835036290233,
       "max_sasa": 0.4387526205878616,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 8,
-      "consistency": 0.615,
+      "consistency": 0.667,
       "per_structure": {
         "1MR5": 0.3714,
         "1MS0": 0.1777,
@@ -2975,21 +2870,20 @@
         "1S0I": 0.0058,
         "1S0J": 0.0519,
         "3B69": 0.1085,
-        "3OPZ": 0.3691,
-        "3PJQ": 0.0115
+        "3OPZ": 0.3691
       },
       "category": "B_mostly_exposed"
     },
     "313": {
       "pdb_res_num": 313,
       "uniprot_residue": "L",
-      "mean_sasa": 0.16315229648766275,
-      "std_sasa": 0.06731798817973315,
+      "mean_sasa": 0.1589610798330731,
+      "std_sasa": 0.06841777765088806,
       "min_sasa": 0.04615068029032186,
       "max_sasa": 0.26918380769045136,
-      "n_structures": 13,
-      "n_exposed": 8,
-      "consistency": 0.615,
+      "n_structures": 12,
+      "n_exposed": 7,
+      "consistency": 0.583,
       "per_structure": {
         "1MR5": 0.2365,
         "1MS0": 0.2423,
@@ -3002,19 +2896,18 @@
         "1S0I": 0.0865,
         "1S0J": 0.0462,
         "3B69": 0.1904,
-        "3OPZ": 0.2692,
-        "3PJQ": 0.2134
+        "3OPZ": 0.2692
       },
-      "category": "B_mostly_exposed"
+      "category": "C_variable"
     },
     "314": {
       "pdb_res_num": 314,
       "uniprot_residue": "R",
-      "mean_sasa": 0.009686337176619002,
-      "std_sasa": 0.012825804573534117,
+      "mean_sasa": 0.010493531941337252,
+      "std_sasa": 0.01302840655997162,
       "min_sasa": 0.0,
       "max_sasa": 0.03656847120949119,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3029,8 +2922,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0052,
-        "3PJQ": 0.0
+        "3OPZ": 0.0052
       },
       "category": "D_mostly_buried"
     },
@@ -3041,7 +2933,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3056,21 +2948,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "316": {
       "pdb_res_num": 316,
       "uniprot_residue": "R",
-      "mean_sasa": 0.18537917966713252,
-      "std_sasa": 0.068127590208588,
+      "mean_sasa": 0.1846745064394446,
+      "std_sasa": 0.07086391128973953,
       "min_sasa": 0.07313694241898239,
       "max_sasa": 0.277965103170302,
-      "n_structures": 13,
-      "n_exposed": 8,
-      "consistency": 0.615,
+      "n_structures": 12,
+      "n_exposed": 7,
+      "consistency": 0.583,
       "per_structure": {
         "1MR5": 0.2455,
         "1MS0": 0.2403,
@@ -3083,10 +2974,9 @@
         "1S0I": 0.0731,
         "1S0J": 0.0836,
         "3B69": 0.1202,
-        "3OPZ": 0.278,
-        "3PJQ": 0.1938
+        "3OPZ": 0.278
       },
-      "category": "B_mostly_exposed"
+      "category": "C_variable"
     },
     "317": {
       "pdb_res_num": 317,
@@ -3095,7 +2985,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3110,19 +3000,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "318": {
       "pdb_res_num": 318,
       "uniprot_residue": "N",
-      "mean_sasa": 0.01282920940205316,
-      "std_sasa": 0.012380180045744992,
+      "mean_sasa": 0.012592293356647188,
+      "std_sasa": 0.012857355211398025,
       "min_sasa": 0.0,
       "max_sasa": 0.03656847120949119,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3137,19 +3026,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0364,
-        "3PJQ": 0.0157
+        "3OPZ": 0.0364
       },
       "category": "D_mostly_buried"
     },
     "334": {
       "pdb_res_num": 334,
       "uniprot_residue": "S",
-      "mean_sasa": 0.002756037503994039,
-      "std_sasa": 0.009547193968965976,
+      "mean_sasa": 0.0029857072959935424,
+      "std_sasa": 0.009902470834637172,
       "min_sasa": 0.0,
       "max_sasa": 0.03582848755192251,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3164,21 +3052,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "337": {
       "pdb_res_num": 337,
       "uniprot_residue": "D",
-      "mean_sasa": 0.32350571287830604,
-      "std_sasa": 0.10035670684304582,
+      "mean_sasa": 0.31511980747818696,
+      "std_sasa": 0.09998276520052223,
       "min_sasa": 0.1484323055722504,
       "max_sasa": 0.4669291476603261,
-      "n_structures": 13,
-      "n_exposed": 12,
-      "consistency": 0.923,
+      "n_structures": 12,
+      "n_exposed": 11,
+      "consistency": 0.917,
       "per_structure": {
         "1MR5": 0.4054,
         "1MS0": 0.3003,
@@ -3191,21 +3078,20 @@
         "1S0I": 0.1484,
         "1S0J": 0.2184,
         "3B69": 0.3835,
-        "3OPZ": 0.4669,
-        "3PJQ": 0.4241
+        "3OPZ": 0.4669
       },
       "category": "A_consistently_exposed"
     },
     "338": {
       "pdb_res_num": 338,
       "uniprot_residue": "E",
-      "mean_sasa": 0.059006117966613494,
-      "std_sasa": 0.06793134667747945,
+      "mean_sasa": 0.050251290494200455,
+      "std_sasa": 0.0632677837734305,
       "min_sasa": 0.0,
       "max_sasa": 0.1710281300642387,
-      "n_structures": 13,
-      "n_exposed": 3,
-      "consistency": 0.231,
+      "n_structures": 12,
+      "n_exposed": 2,
+      "consistency": 0.167,
       "per_structure": {
         "1MR5": 0.171,
         "1MS0": 0.011,
@@ -3218,19 +3104,18 @@
         "1S0I": 0.0154,
         "1S0J": 0.0102,
         "3B69": 0.125,
-        "3OPZ": 0.1659,
-        "3PJQ": 0.1641
+        "3OPZ": 0.1659
       },
       "category": "D_mostly_buried"
     },
     "339": {
       "pdb_res_num": 339,
       "uniprot_residue": "N",
-      "mean_sasa": 0.03335366055371175,
-      "std_sasa": 0.035933689013126685,
+      "mean_sasa": 0.035262454380580795,
+      "std_sasa": 0.03676230523572158,
       "min_sasa": 0.0,
       "max_sasa": 0.09403321168154878,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3245,8 +3130,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0784,
-        "3PJQ": 0.0104
+        "3OPZ": 0.0784
       },
       "category": "D_mostly_buried"
     },
@@ -3257,7 +3141,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3272,19 +3156,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "341": {
       "pdb_res_num": 341,
       "uniprot_residue": "A",
-      "mean_sasa": 0.001733120955731715,
-      "std_sasa": 0.006003707101979323,
+      "mean_sasa": 0.0018775477020426914,
+      "std_sasa": 0.006227121253669604,
       "min_sasa": 0.0,
       "max_sasa": 0.022530572424512296,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3299,8 +3182,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0225,
-        "3PJQ": 0.0
+        "3OPZ": 0.0225
       },
       "category": "D_mostly_buried"
     },
@@ -3337,7 +3219,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3352,19 +3234,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "344": {
       "pdb_res_num": 344,
       "uniprot_residue": "S",
-      "mean_sasa": 0.0023623178605663192,
-      "std_sasa": 0.008183309116256551,
+      "mean_sasa": 0.002559177682280179,
+      "std_sasa": 0.008487832143974717,
       "min_sasa": 0.0,
       "max_sasa": 0.030710132187362148,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3379,8 +3260,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0307,
-        "3PJQ": 0.0
+        "3OPZ": 0.0307
       },
       "category": "D_mostly_buried"
     },
@@ -3391,7 +3271,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3406,19 +3286,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "356": {
       "pdb_res_num": 356,
       "uniprot_residue": "H",
-      "mean_sasa": 0.001205553995917292,
-      "std_sasa": 0.0030071800093191847,
+      "mean_sasa": 0.0013060168289103996,
+      "std_sasa": 0.003108941903378704,
       "min_sasa": 0.0,
       "max_sasa": 0.010448134631283197,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3433,8 +3312,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -3445,7 +3323,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3460,19 +3338,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "358": {
       "pdb_res_num": 358,
       "uniprot_residue": "I",
-      "mean_sasa": 0.031506714428969726,
-      "std_sasa": 0.028135704522505505,
+      "mean_sasa": 0.02884417518145116,
+      "std_sasa": 0.027666360919831573,
       "min_sasa": 0.0,
       "max_sasa": 0.08653252554435349,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3487,19 +3364,18 @@
         "1S0I": 0.0058,
         "1S0J": 0.0404,
         "3B69": 0.0577,
-        "3OPZ": 0.0865,
-        "3PJQ": 0.0635
+        "3OPZ": 0.0865
       },
       "category": "D_mostly_buried"
     },
     "359": {
       "pdb_res_num": 359,
       "uniprot_residue": "N",
-      "mean_sasa": 0.006474020053953775,
-      "std_sasa": 0.011105163975309197,
+      "mean_sasa": 0.0057339328839765,
+      "std_sasa": 0.011246388097780667,
       "min_sasa": 0.0,
       "max_sasa": 0.03788563851819337,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3514,21 +3390,20 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0379,
-        "3PJQ": 0.0154
+        "3OPZ": 0.0379
       },
       "category": "D_mostly_buried"
     },
     "360": {
       "pdb_res_num": 360,
       "uniprot_residue": "S",
-      "mean_sasa": 0.14006925409577123,
-      "std_sasa": 0.07386313231155252,
+      "mean_sasa": 0.12895875549079835,
+      "std_sasa": 0.065617435519703,
       "min_sasa": 0.005768835036290233,
-      "max_sasa": 0.2733952373554459,
-      "n_structures": 13,
-      "n_exposed": 5,
-      "consistency": 0.385,
+      "max_sasa": 0.22659407739339416,
+      "n_structures": 12,
+      "n_exposed": 4,
+      "consistency": 0.333,
       "per_structure": {
         "1MR5": 0.2247,
         "1MS0": 0.0807,
@@ -3541,20 +3416,19 @@
         "1S0I": 0.0935,
         "1S0J": 0.1082,
         "3B69": 0.1447,
-        "3OPZ": 0.2266,
-        "3PJQ": 0.2734
+        "3OPZ": 0.2266
       },
       "category": "C_variable"
     },
     "361": {
       "pdb_res_num": 361,
       "uniprot_residue": "N",
-      "mean_sasa": 0.548561594340692,
-      "std_sasa": 0.11637069973935425,
+      "mean_sasa": 0.55681764746467,
+      "std_sasa": 0.1174075808152745,
       "min_sasa": 0.32073300102602414,
       "max_sasa": 0.7372352068700642,
-      "n_structures": 13,
-      "n_exposed": 13,
+      "n_structures": 12,
+      "n_exposed": 12,
       "consistency": 1.0,
       "per_structure": {
         "1MR5": 0.7372,
@@ -3568,21 +3442,20 @@
         "1S0I": 0.4799,
         "1S0J": 0.4437,
         "3B69": 0.5084,
-        "3OPZ": 0.6396,
-        "3PJQ": 0.4495
+        "3OPZ": 0.6396
       },
       "category": "A_consistently_exposed"
     },
     "362": {
       "pdb_res_num": 362,
       "uniprot_residue": "E",
-      "mean_sasa": 0.1915917019798671,
-      "std_sasa": 0.090802693351848,
+      "mean_sasa": 0.191429471099277,
+      "std_sasa": 0.09450862959601554,
       "min_sasa": 0.08076369050806326,
       "max_sasa": 0.38617001939433104,
-      "n_structures": 13,
-      "n_exposed": 7,
-      "consistency": 0.538,
+      "n_structures": 12,
+      "n_exposed": 6,
+      "consistency": 0.5,
       "per_structure": {
         "1MR5": 0.2736,
         "1MS0": 0.305,
@@ -3595,19 +3468,18 @@
         "1S0I": 0.1256,
         "1S0J": 0.1372,
         "3B69": 0.0808,
-        "3OPZ": 0.3862,
-        "3PJQ": 0.1935
+        "3OPZ": 0.3862
       },
       "category": "C_variable"
     },
     "363": {
       "pdb_res_num": 363,
       "uniprot_residue": "V",
-      "mean_sasa": 0.0590196199866616,
-      "std_sasa": 0.0397849456229321,
+      "mean_sasa": 0.054323196591733014,
+      "std_sasa": 0.03778904979726727,
       "min_sasa": 0.0,
       "max_sasa": 0.12114553576209489,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3622,19 +3494,18 @@
         "1S0I": 0.075,
         "1S0J": 0.0231,
         "3B69": 0.0519,
-        "3OPZ": 0.0635,
-        "3PJQ": 0.1154
+        "3OPZ": 0.0635
       },
       "category": "D_mostly_buried"
     },
     "364": {
       "pdb_res_num": 364,
       "uniprot_residue": "Y",
-      "mean_sasa": 0.006155979140542673,
-      "std_sasa": 0.01349585347897924,
+      "mean_sasa": 0.0066689774022545625,
+      "std_sasa": 0.013924620607823754,
       "min_sasa": 0.0,
       "max_sasa": 0.04866711696796272,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3649,8 +3520,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0487,
-        "3PJQ": 0.0
+        "3OPZ": 0.0487
       },
       "category": "D_mostly_buried"
     },
@@ -3661,7 +3531,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3676,8 +3546,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
@@ -3688,7 +3557,7 @@
       "std_sasa": 0.0,
       "min_sasa": 0.0,
       "max_sasa": 0.0,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3703,19 +3572,18 @@
         "1S0I": 0.0,
         "1S0J": 0.0,
         "3B69": 0.0,
-        "3OPZ": 0.0,
-        "3PJQ": 0.0
+        "3OPZ": 0.0
       },
       "category": "D_mostly_buried"
     },
     "367": {
       "pdb_res_num": 367,
       "uniprot_residue": "V",
-      "mean_sasa": 0.004881321953784044,
-      "std_sasa": 0.004981154821526693,
+      "mean_sasa": 0.004807362530241861,
+      "std_sasa": 0.00517768790259911,
       "min_sasa": 0.0,
       "max_sasa": 0.011537670072580466,
-      "n_structures": 13,
+      "n_structures": 12,
       "n_exposed": 0,
       "consistency": 0.0,
       "per_structure": {
@@ -3730,8 +3598,7 @@
         "1S0I": 0.0,
         "1S0J": 0.0115,
         "3B69": 0.0115,
-        "3OPZ": 0.0115,
-        "3PJQ": 0.0058
+        "3OPZ": 0.0115
       },
       "category": "D_mostly_buried"
     }
